@@ -1,0 +1,251 @@
+[
+  {
+    "id": "91ab72e8-cd7b-4efb-9c48-e349e65d2f64",
+    "data": [
+      {
+        "text": "somos ",
+        "userDefined": false
+      },
+      {
+        "text": "desarrolladores",
+        "alias": "teams",
+        "meta": "@teams",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e460fa19-8ff4-4247-93ea-08b66dcd53a4",
+    "data": [
+      {
+        "text": "Si",
+        "alias": "first-time",
+        "meta": "@first-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "14ddb2b4-b12f-4122-ac3a-004d52e6a38c",
+    "data": [
+      {
+        "text": "No",
+        "alias": "first-time",
+        "meta": "@first-time",
+        "userDefined": true
+      },
+      {
+        "text": ", he ido a varios",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a9989120-c4f5-49c0-9e1c-8cce07fcfe2a",
+    "data": [
+      {
+        "text": "a mi correo ",
+        "userDefined": false
+      },
+      {
+        "text": "hola@hola.com",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d371e61f-3bce-450b-843e-b7f904ed51ce",
+    "data": [
+      {
+        "text": "al correo ",
+        "userDefined": false
+      },
+      {
+        "text": "edwarvilchez1977@gmail.com",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0fb6db79-cdec-4925-a1a0-98ad3feec31c",
+    "data": [
+      {
+        "text": "Somos ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " personas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dd3a9ffa-6d19-4643-824f-37715926d300",
+    "data": [
+      {
+        "text": "Quisiera ir al Hackaton",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "21df2f2c-1d95-4572-9006-f8a60df40d2e",
+    "data": [
+      {
+        "text": "Quisiera asistir al evento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "13860494-a414-4251-a82b-47f39c29eade",
+    "data": [
+      {
+        "text": "Quiero ir al evento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "28f629a7-4663-4fc6-a950-7f2cfec11bc1",
+    "data": [
+      {
+        "text": "Me llamo ",
+        "userDefined": false
+      },
+      {
+        "text": "Eduardo",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "01cd0ffc-f8b0-42c6-9501-fc225566f202",
+    "data": [
+      {
+        "text": "Mi nombre es ",
+        "userDefined": false
+      },
+      {
+        "text": "Edwar",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "93361b35-b7cd-43a6-8e01-5e02711417ee",
+    "data": [
+      {
+        "text": "Quisiera registrarme",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dbaad377-4736-4703-91bb-bd073c5a004b",
+    "data": [
+      {
+        "text": "Quisiera poder registrame",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "63a17e96-33c8-474a-86d4-b19b672db820",
+    "data": [
+      {
+        "text": "Quiero registrarme",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9f5a0669-4f87-4397-b5f0-2acecf29de20",
+    "data": [
+      {
+        "text": "Quiero inscribirme en Hackaton",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c995b135-9b9d-446a-9248-ff6239d1cee8",
+    "data": [
+      {
+        "text": "Hola quiero ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " boleto para el Hackaton",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

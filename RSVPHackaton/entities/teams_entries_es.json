@@ -1,0 +1,32 @@
+[
+  {
+    "value": "Maker",
+    "synonyms": [
+      "Maker",
+      "creator",
+      "electronica",
+      "arduino"
+    ]
+  },
+  {
+    "value": "Devs",
+    "synonyms": [
+      "Devs",
+      "desarrollo",
+      "development",
+      "codigo",
+      "front",
+      "back"
+    ]
+  },
+  {
+    "value": "Test",
+    "synonyms": [
+      "Test",
+      "testing",
+      "pruebas",
+      "integracion",
+      "integration"
+    ]
+  }
+]
